@@ -7,27 +7,27 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+  name:LillySong
+  email: lily0917song@gmail.com
+  link: http://LillySong.org
+  #weibo: http://weibo.com/yansu0711
+  github: http://github.com/zhuikonger
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: LillySong的博客 
+description:LillySong博客
+url: http://LillySong.org
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+#avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
+#favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
 
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: yansu.org
+  url: LillySong.org
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: LillySong-zh
