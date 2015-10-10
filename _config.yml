@@ -7,15 +7,15 @@ kramdown:
 
 # 作者信息
 author: 
-  name: 闫肃
+  name: zhuikonger
   email: suyan0830@gmail.com
   link: http://yansu.org
   weibo: http://weibo.com/yansu0711
   github: http://github.com/suyan
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
+title: zhuikonger's blog 
+description: zhuikonger's blog
 url: http://yansu.org
 rss_url: /pages/atom.xml
 
