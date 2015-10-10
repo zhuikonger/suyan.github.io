@@ -1,6 +1,6 @@
 ### 我的博客
 
-地址：[http://LillySong.org](http://LillySong.org)
+地址：[http://zhuikonger.github.io](http://zhuikonger.github.io)
 
 ### 安装说明
 
