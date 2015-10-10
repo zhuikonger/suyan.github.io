@@ -9,14 +9,14 @@ kramdown:
 author: 
   name:LillySong
   email: lily0917song@gmail.com
-  link: http://LillySong.org
+  link: http://zhuikonger.github.io
   #weibo: http://weibo.com/yansu0711
   github: http://github.com/zhuikonger
 
 # 站点信息
 title: LillySong的博客 
 description:LillySong博客
-url: http://LillySong.org
+url: http://zhuikonger.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -26,7 +26,7 @@ rss_url: /pages/atom.xml
 # google analytics 设置
 ga:
   id: UA-54767140-1
-  url: LillySong.org
+  url: zhuikonger.github.io
 
 # disqus 设置
 disqus:
