@@ -9,9 +9,9 @@ kramdown:
 author: 
   name:zhuikonger
   email:lily0917song@126.com
-  link: http://zhuikonger.github.io
-  #weibo: http://weibo.com/yansu0711
-  github: http://github.com/zhuikonger
+  link:http://zhuikonger.github.io
+  #weibo:http://weibo.com/yansu0711
+  github:http://github.com/zhuikonger
 
 # 站点信息
 title: LillySong的博客 
